@@ -16,3 +16,8 @@ We have created connection between the BBC:Microbit and a laptop. By attaching a
 We used one microbit to transmit its accelerometer-based data wirelessly to another Microbit connected directly to PC via USB.
 The server program in PC then reads data from the Microbit connected through serial port. After that, the server parsed the raw data
 into a class and passed it to Unity via socket. Finally, Unity games can use the those data as the game input.
+
+### Try it yourself
+Even if you don't have Microbits in hand, don't worry! We provide the built binary of this little game for Windows x86-64, Mac and Linux platform. This version is keyboard control only. Use 'left arrow' to move left, 'right arrow' to move right and 'up arrow' to jump. Each movement will have a cool down time of 1s, so leave ample time for next movement. The build zip files are under `/Unity/CoderDodge/Build/`. 
+
+You may find there is problem connecting to the server to get the highest scores. You need to run the highest score server `/Python/ScoreServer/run.py` (needs Flask module) locally. The server may be deployed to the internet in the future.
