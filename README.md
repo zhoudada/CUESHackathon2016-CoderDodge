@@ -2,7 +2,8 @@
 ### Screenshots
 ![Screenshot 1](/Unity/CoderDodge/Screenshots/screen_1920x1080_2016-10-31_00-10-14.png?raw=true "Screenshot1")
 ![Screenshot 2](/Unity/CoderDodge/Screenshots/screen_1920x1080_2016-10-31_00-13-03.png?raw=true "Screenshot2")
-![Screenshot 3](/Unity/CoderDodge/Screenshots/screen_1920x1080_2016-10-31_00-14-19.png?raw=true "Screenshot3")
+![Screenshot 3](/Unity/CoderDodge/Screenshots/screen_1920x1080_2016-10-31_20-54-13.png?raw=true "Screenshot3")
+![Screenshot 4](/Unity/CoderDodge/Screenshots/screen_1920x1080_2016-10-31_20-54-29.png?raw=true "Screenshot4")
 
 CUESHackathon2016
 ### Inspiration
