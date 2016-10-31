@@ -1,6 +1,8 @@
 # CUESHackathon2016-CoderDodge
 ### Screenshots
-![coderdodgescreenshot](https://cloud.githubusercontent.com/assets/13993950/19841157/d43e393e-9efd-11e6-8ca3-d70cd0c22053.PNG)
+![Screenshot 1](/Unity/CoderDodge/Screenshots/screen_1920x1080_2016-10-31_00-10-14.png?raw=true "Screenshot1")
+![Screenshot 2](/Unity/CoderDodge/Screenshots/screen_1920x1080_2016-10-31_00-13-03.png?raw=true "Screenshot2")
+![Screenshot 3](/Unity/CoderDodge/Screenshots/screen_1920x1080_2016-10-31_00-14-19.png?raw=true "Screenshot3")
 
 CUESHackathon2016
 ### Inspiration
