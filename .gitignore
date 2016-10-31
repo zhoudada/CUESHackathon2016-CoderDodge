@@ -4,6 +4,7 @@
 **/Temp/
 **/Assets/Scripts/SharedCode/
 **/[Oo]bj/
+**/bin/
 **/UWP/
 *.csproj
 *.unityproj
