@@ -1,4 +1,7 @@
 # CUESHackathon2016-CoderDodge
+### Screenshots
+![coderdodgescreenshot](https://cloud.githubusercontent.com/assets/13993950/19841157/d43e393e-9efd-11e6-8ca3-d70cd0c22053.PNG)
+
 CUESHackathon2016
 ### Inspiration
 As engineering students who love coding, we realised that sitting at a laptop all day has huge consequences on our health, in particular, on our backs and necks. We often overlook this issue, and by the time we realise it, we have already got fat and unhealthy. Following the recent success of PokemonGo as people stormed out to streets to catch Pokemons, it has inspired us to create a game to encourage programmers to work out more.
